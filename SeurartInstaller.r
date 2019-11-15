@@ -9,6 +9,7 @@ install.packages("dplyr")
 install.packages('Seurat')
 install.packages("ggplot2")
 install.packages("cowplot")
+BiocManager::install("monocle")
 
 
 
